@@ -1,6 +1,19 @@
 # ポートフォリオの補足情報
 ポートフォリオに記載したゲームや映像のソースコードの解説や動画をここで補足します。動画はこのファイルだけでなくポートフォリオの各リンクからもご覧いただけます。
-## プレイ動画
+## 動画リンク
+
+### Escape from the Invaded City
+[ゲームプレイ動画](https://www.youtube.com/watch?v=n9LwsK46Pec&t=3s)
+
+### Internet Nightmare
+[映像作品](https://youtu.be/uzbohOYJvHI)
+
+## ドライブリンク
+
+[Google ドライブフォルダ](https://drive.google.com/drive/folders/1otDMZh1cRTp_TWD559aB9Rhrmj3yycE?usp=sharing)
+
+
+## Escape from the Invaded Cityのプレイ動画
 下の画像をクリックするとプレイ動画を再生できます。
 [![Watch the video](https://img.youtube.com/vi/n9LwsK46Pec/maxresdefault.jpg)](https://www.youtube.com/watch?v=n9LwsK46Pec&t=3s)
 以下に各ソースコードの解説を記載する。
