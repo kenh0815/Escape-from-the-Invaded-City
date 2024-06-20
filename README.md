@@ -7,9 +7,6 @@
 
 ### Internet Nightmare
 [映像作品](https://youtu.be/uzbohOYJvHI)
-
-## ドライブリンク
-
 [Google ドライブフォルダ](https://drive.google.com/drive/folders/1otDMZh1cRTp_TWD559aB9Rhrmj3yycE?usp=sharing)
 
 
