@@ -3,8 +3,7 @@ UnityとLeap Motion Controller 2を用いて制作した3Dシューティング�
 ## My Game Video
 下の画像をクリックするとプレイ動画を再生できます。
 [![Watch the video](https://img.youtube.com/vi/n9LwsK46Pec/maxresdefault.jpg)](https://www.youtube.com/watch?v=n9LwsK46Pec&t=3s)
-
-
+以下に各ソースコードの解説を記載する。
 ## EnemyManager.cs(C#コード) 
 コードは敵の行動全般を実装するためのクラスである. 主に索敵,プレイヤーを見つ
 けた際の追跡,攻撃,効果音,HPを実装している. 「using UnityEngine.AI」と記述することで,対象
