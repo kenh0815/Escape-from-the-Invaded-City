@@ -1,5 +1,5 @@
 # ポートフォリオの補足情報
-UnityとLeap Motion Controller 2を用いて制作した3Dシューティングゲームのソースコードです
+ポートフォリオに記載したゲームや映像のソースコードの解説や動画をここで補足します。動画はこのファイルだけでなくポートフォリオの各リンクからもご覧いただけます。
 ## プレイ動画
 下の画像をクリックするとプレイ動画を再生できます。
 [![Watch the video](https://img.youtube.com/vi/n9LwsK46Pec/maxresdefault.jpg)](https://www.youtube.com/watch?v=n9LwsK46Pec&t=3s)
