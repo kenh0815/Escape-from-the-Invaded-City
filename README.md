@@ -6,7 +6,7 @@ UnityとLeap Motion Controller 2を用いて制作した3Dシューティング�
 
 
 ## EnemyManager.cs(C#コード) 
-以下のコードは敵の行動全般を実装するためのクラスである. 主に索敵,プレイヤーを見つ
+コードは敵の行動全般を実装するためのクラスである. 主に索敵,プレイヤーを見つ
 けた際の追跡,攻撃,効果音,HPを実装している. 「using UnityEngine.AI」と記述することで,対象
 のオブジェクトを追跡するために必要な関数や変数,機能を参照するために必要なライブラリ
 を用意することが可能である. 最初に,Startの中で追跡の対象となるオブジェクトの設定と効
@@ -51,7 +51,7 @@ Vector3(palmPosition.x, palmPosition.y, palmPosition.z + 2」と記述して拳�
 (float)maxHp」で行われる.  
 
 ## RotateObject.cs(C#コード) 
-以下の記述は弾薬箱の回転を実装するためのコードである. rotationAmountで回
+このコードの記述は弾薬箱の回転を実装するためのコードである. rotationAmountで回
 転角度を指定して「ransform.Rotate(Vector3.up, rotationAmount)」で実際に回
 転を実行する.  
  また,弾薬箱がPlayerと衝突した際の処理も記述してある. 「gunManager = 
@@ -74,7 +74,7 @@ obj.GetComponent<GunManager>()」でGunManagerにアクセスして,
  時間切れになったら「isTimeOver」を「true」に変更している.
 
  ## GoalDetector.cs(C#コード) 
- 以下のコードはPlayerがゴール（バス）に到達した際の処理を記述している. 
+ このコードはPlayerがゴール（バス）に到達した際の処理を記述している. 
 「OnCollisionEnter」の中で効果音を再生してパブリックな変数「isGoal」をtrue
 に更新してゲームクリアの際の処理を行えるようにしている. なお,このコードは
 バスの子オブジェクトのSphere Colliderにアタッチした. 
