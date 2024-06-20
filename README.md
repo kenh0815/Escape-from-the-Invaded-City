@@ -8,7 +8,7 @@
 ### Internet Nightmare
 [映像作品](https://youtu.be/uzbohOYJvHI)
 ## ドライブリンク
-[Google ドライブフォルダ]([https://drive.google.com/drive/folders/1otDMZh1cRTp_TWD559aB9Rhrmj3yycE?usp=sharing](https://drive.google.com/drive/folders/1otDMZh1cRTp-_TWD559aB9Rhrmj3yycE?usp=sharing))
+[Google ドライブフォルダ](https://drive.google.com/drive/folders/1otDMZh1cRTp-_TWD559aB9Rhrmj3yycE)
 
 ## GitHubのリンク
 [Escape from the Invaded City](https://github.com/kenh0815/Escape-from-the-Invaded-City) <br>
