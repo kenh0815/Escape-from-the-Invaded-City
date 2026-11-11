@@ -1,18 +1,4 @@
-# ポートフォリオの補足情報
-ポートフォリオに記載したゲームや映像のソースコードの解説や動画をここで補足します。動画はこのファイルだけでなくポートフォリオの各リンクからもご覧いただけます。
-## 動画リンク
 
-### Escape from the Invaded City
-[ゲームプレイ動画](https://www.youtube.com/watch?v=n9LwsK46Pec&t=3s)
-
-### Internet Nightmare
-[映像作品](https://youtu.be/uzbohOYJvHI)
-## ドライブリンク
-[Google ドライブフォルダ](https://drive.google.com/drive/folders/1otDMZh1cRTp-_TWD559aB9Rhrmj3yycE)
-
-## GitHubのリンク
-[Escape from the Invaded City](https://github.com/kenh0815/Escape-from-the-Invaded-City) <br>
-[Internet Nightmare](https://github.com/kenh0815/Internetnightmare.git) <br>
 
 
 
